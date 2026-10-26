@@ -10,7 +10,7 @@
 
 - **Verified with Models**: Fortinet FortiAI (AI model Medium)
 
-- [Release notes](./fortisoar-data-access/release_notes.md)
+- [Release notes](./release_notes.md)
 
 # FortiSOAR Data Access
 
